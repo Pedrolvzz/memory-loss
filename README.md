@@ -10,6 +10,31 @@ Apenas você, Makoto e Mitsuri ainda lembram dele. Enquanto as lembranças come�
 
 Você tem **15 dias** para encontrar Narukami. Investigue, converse com seus amigos e descubra o que existe do outro lado antes que você também esqueça por que começou a procurar.
 
+## A história
+
+O desaparecimento de Narukami começa com uma ausência comum: uma carteira vazia na sala de aula. Logo, porém, os professores deixam de reconhecer seu nome, as fotografias mudam e as lembranças que os amigos julgavam seguras começam a falhar.
+
+Você, Makoto e Mitsuri tentam reconstruir seus últimos dias. Cada um conhecia uma parte diferente dele: o amigo que fazia companhia depois da aula, o colega que ajudava nas apresentações, a pessoa que parecia sempre encontrar uma maneira de dizer que estava tudo bem. Conforme a investigação avança, essas lembranças ganham novos significados.
+
+### Os personagens
+
+- **Narukami:** o aluno desaparecido. Para encontrá-lo, será preciso conhecer também o que ele não conseguia contar aos amigos.
+- **Makoto:** costuma recorrer ao humor, mas o desaparecimento faz com que revisite uma conversa que deixou pela metade.
+- **Mitsuri:** procura preservar o que está desaparecendo. Um áudio e uma fotografia colocam em dúvida até mesmo aquilo de que ela se lembra.
+- **O jogador:** participa da investigação e descobre que as próprias lembranças também têm lacunas. Procurar Narukami significa enfrentar perguntas sobre si mesmo.
+
+### Do outro lado da porta
+
+O corredor leva a uma sala em que o tempo parece obedecer a outras regras. Registros antigos se misturam ao presente, mensagens chegam de remetentes impossíveis e uma chamada continua sendo feita. O Regente da Última Chamada controla esse lugar, oferecendo um alívio que torna cada vez mais difícil partir.
+
+A ameaça não se resume ao que pode acontecer dentro da sala. Existe também o medo de voltar para uma vida que continua difícil, de pedir ajuda e de permitir que alguém veja o que você tentou esconder.
+
+### Memória e medo
+
+A história acompanha o esforço de lembrar de alguém sem transformar essa pessoa apenas em seu sofrimento. As conversas revelam afeto, momentos cotidianos e coisas que ficaram por dizer. Os vínculos dão contexto às pistas e mostram por que a busca importa para cada personagem.
+
+O combate é parte dessa jornada, mas não resolve tudo o que ela apresenta. O despertar de Mnemosine se conecta à disposição de encarar lembranças dolorosas, reconhecer os próprios erros e continuar sem a promessa de que tudo voltará a ser como antes.
+
 ## Como jogar
 
 Você escolhe as ações digitando o número indicado no menu e pressionando Enter.
@@ -42,17 +67,17 @@ O jogador começa com **100 de vida e 30 de energia**. As barras no terminal aco
 É necessário ter **Python 3.10 ou superior** instalado. O jogo usa apenas a biblioteca padrão do Python: não é necessário instalar pacotes adicionais.
 
 1. Baixe ou clone este repositório.
-2. Abra um terminal na pasta que contém `codigo_corrigido.py`.
+2. Abra um terminal na pasta que contém `main.py`.
 3. Execute:
 
 ```bash
-python codigo_corrigido.py
+python main.py
 ```
 
 No Windows, você também pode usar:
 
 ```powershell
-py codigo_corrigido.py
+py main.py
 ```
 
 Para encerrar antes do final, pressione **Ctrl + C** no terminal.
@@ -89,3 +114,4 @@ A história aborda isolamento emocional, culpa, medo de abandono e dificuldade d
 ## Referências
 
 Persona e Omori são referências criativas. Este é um projeto de estudo de fã, sem vínculo oficial com essas obras. Narukami e o conceito de Persona são referências à série Persona.
+
