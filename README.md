@@ -99,17 +99,11 @@ Conceitos utilizados:
 - `random.randint()` para sortear danos.
 - Códigos ANSI para colorir falas no terminal.
 
-O jogo foi construído com apoio de IA em explicações, revisão de código e desenvolvimento de partes dos diálogos.
-
 ## Limitações da versão atual
 
 - O progresso dura apenas a sessão atual: não há salvamento.
 - O jogo funciona pelo terminal e não possui interface gráfica ou áudio.
 - Os vínculos têm cenas definidas para alguns níveis; continuar conversando depois delas ainda consome tempo e aumenta o vínculo.
-
-## Temas sensíveis
-
-A história aborda isolamento emocional, culpa, medo de abandono e dificuldade de pedir ajuda, além de cenas de tensão e terror psicológico.
 
 ## Referências
 
